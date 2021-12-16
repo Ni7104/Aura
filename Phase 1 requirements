@@ -4,5 +4,6 @@ Phase 1 • Shall set-up the Raspberry Pi and configure it for the project -Done
   mi to km, in to yd, min to days
 
 • Shall demonstrate basic understanding of Raspberry Pi I/O o Configure LED on breadboard -Done o Blink LED -how often will it blink? -What color will the LED be?
-
+It will blink every other second and it will be green
 • Shall demonstrate basic understanding of Pygame o Add a random rectangle to the center of the game screen -Color? position on screen (x,y)? Size? o Add random ball to the top-left corner of the game screen -Color? position on screen (x,y)? Size? o Add text to the top-right of the game screen -What will it say? What font? What color?
+Rectangle is red and [250,150,300,250], Ball is blue [50,50], 50, the text says hi in white using free sans
